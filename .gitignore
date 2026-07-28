@@ -1,0 +1,29 @@
+# Unity default ignore files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Aa]natomiARBook_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Visual Studio cache/options
+/.vs/
+/*.csproj
+/*.sln
+/*.unityproj
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.developerprofile
+/*.specflow-stepdefinitionreport.html
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android build outputs
+*.apk
+*.aab
