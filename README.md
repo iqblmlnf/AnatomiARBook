@@ -39,9 +39,5 @@ Repositori ini berisi seluruh aset proyek Unity, skrip pemrograman C#, dan konfi
 3. Jalankan aplikasi, berikan **izin akses kamera**, dan arahkan kamera HP ke kartu organ untuk memunculkan objek 3D!
 
 ---
-
-## 👥 Dikembangkan Oleh
-* **Developer**: [iqblmlnf](https://github.com/iqblmlnf)
-
 ---
 *Proyek ini dikembangkan menggunakan standar pemrograman Unity berorientasi objek (OOP) dengan manajemen audio terpusat (Singleton Pattern) serta optimalisasi performa rendering mobile.*
