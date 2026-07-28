@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker_tulangrangka" size="1.000000 1.451489" />
+    <ImageTarget name="marker_usus" size="1.000000 1.000000" />
+    <ImageTarget name="marker_ginjal" size="1.000000 0.913872" />
+    <ImageTarget name="marker_lambung" size="1.000000 0.897281" />
+    <ImageTarget name="marker_hati" size="1.000000 0.913872" />
+    <ImageTarget name="marker_otak" size="1.000000 0.845308" />
+    <ImageTarget name="marker_paruparu" size="1.000000 0.913872" />
+    <ImageTarget name="marker_jantung" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
